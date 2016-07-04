@@ -1,0 +1,7 @@
+Setting:
+
+In the file js.js:
+    on the line № 1 - you can change time before the show overlay,
+    on the line № 2 - you can change video duration,
+    on the line № 3 - you can set up reference to sponsored offer.
+
